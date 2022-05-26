@@ -29,4 +29,5 @@ cargo build
 
 ## Contents
 
-1. [Chapter 1](/chapter-1/)
+1. [Chapter 1](/chapter_1/)
+1. [Chapter 2](/chapter_2/)
