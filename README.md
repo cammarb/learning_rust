@@ -9,7 +9,7 @@ You can find the installation instructions in **[the Rust book](https://doc.rust
 
 ### Steps to run the code
 
-#### rustc
+#### rustc (for single files)
 
 ##### Powershell (Windows)
 ```powershell
@@ -17,7 +17,7 @@ rustc .\file.rs
 
 .\file.exe
 ```
-#### cargo
+#### cargo (for project folders)
 
 ##### Powershell (Windows)
 
