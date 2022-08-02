@@ -17,6 +17,7 @@ fn main() {
     }
     println!("The value of x is: {}", x);
 
-    let spaces = "   ";
-    let mut spaces = spaces.len();
+    let mut spaces = "   ".to_string();
+    spaces = spaces.len().to_string();
+    println!("{}", spaces);
 }
