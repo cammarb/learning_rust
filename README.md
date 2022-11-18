@@ -1,4 +1,5 @@
 # Learning Rust
+
 The purpose of this repository is to learn the Rust programming language.
 
 ## Running the code
@@ -12,11 +13,13 @@ You can find the installation instructions in **[the Rust book](https://doc.rust
 #### rustc (for single files)
 
 ##### Powershell (Windows)
+
 ```powershell
 rustc .\file.rs
 
 .\file.exe
 ```
+
 #### cargo (for project folders)
 
 ##### Powershell (Windows)
@@ -30,4 +33,9 @@ cargo build
 ## Contents
 
 1. [Chapter 1](/chapter_1/)
-1. [Chapter 2](/chapter_2/)
+2. [Chapter 2](/chapter_2/)
+3. [Chapter 3](/chapter_3/)
+
+### Extras
+
+1. [Practice](/practice/)
